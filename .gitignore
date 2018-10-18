@@ -1,0 +1,9 @@
+.DS_Store
+.cache
+.config
+.git
+.ipython
+facebook/
+'~$result.pptx'
+igraph_fb.py
+test.pickle
