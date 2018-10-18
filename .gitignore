@@ -7,3 +7,4 @@ facebook/
 '~$result.pptx'
 igraph_fb.py
 test.pickle
+result_*.pptx
