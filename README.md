@@ -27,10 +27,10 @@ plt.show(g)
 
 # Output
 ## Analyzing based on community
-![Community Analysis](https://raw.githubusercontent.com/sff1019/networkx/master/community_nt.png)
+![Community Analysis](https://raw.githubusercontent.com/sff1019/networkx/master/outputs/community_nt.png)
 
 ## Analyzing based on degree size
-![Degree Analysis](https://raw.githubusercontent.com/sff1019/networkx/master/degree_nx.png)
+![Degree Analysis](https://raw.githubusercontent.com/sff1019/networkx/master/outputs/degree_nx.png)
 
 # Reference
 https://blog.dominodatalab.com/social-network-analysis-with-networkx/
